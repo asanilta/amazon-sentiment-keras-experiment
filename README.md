@@ -1,6 +1,7 @@
 # amazon-sentiment-keras-experiment
-Experimenting with sentiment classification of Amazon reviews using deep learning
-Assignment from Professor Minh Le Nguyen for research internship at Japan Advanced Institute of Science at Technology
+Experimenting with sentiment classification of Amazon reviews using deep learning.
+
+Assignment from Professor Minh Le Nguyen for research internship at Japan Advanced Institute of Science and Technology (JAIST).
 
 Install <a href="http://keras.io">Keras</a> and <a href="http://deeplearning.net/software/theano/install.html#install">Theano</a> to run.
 
